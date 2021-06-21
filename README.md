@@ -64,3 +64,11 @@ Erhan BULBUL , Aydın CETIN , ˙Ibrahim Alper DOGRU
 
 [5] Human Activity Recognition (HAR) with Keras and
 Core ML , Nils
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Contribution
+
+Aanchal Satpuri
+
+Azal Fatima
