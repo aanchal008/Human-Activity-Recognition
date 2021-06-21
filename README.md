@@ -13,7 +13,7 @@ physical activities, namely ’Walking’, ’Jogging’, ’Upstairs’,
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
- Model Details
+ ### Model Details
 
 During training, the records are fed into the neural network
 after reshaping. Each person has multiple two-dimensional
@@ -31,7 +31,7 @@ function to calculate each class’s probability
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Results
+### Results
 
 We got an accuracy of
 76.85% on test data. Therefore, we can conclude that our
@@ -46,7 +46,7 @@ activities. The precision value obtained for ’downstairs’ is
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-References
+### References
 
 [1] Real-Time Physical Activity Recognition on Smart Mobile Devices Using Convolutional Neural Networks,Konstantinos Peppas , Apostolos C. Tsolakis , Stelios
 Krinidis and Dimitrios Tzovaras
@@ -67,7 +67,7 @@ Core ML , Nils
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Contribution
+### Contribution
 
 Aanchal Satpuri
 
