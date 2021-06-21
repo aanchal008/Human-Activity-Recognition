@@ -43,3 +43,24 @@ Whereas, when it comes to the precision of classification for
 a result, the predicted labels are misclassified for these two
 activities. The precision value obtained for ’downstairs’ is
 0.58 and for ’upstairs’ is 0.55.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+References
+
+[1] Real-Time Physical Activity Recognition on SmartMobile Devices Using Convolutional Neural Networks,Konstantinos Peppas , Apostolos C. Tsolakis , Stelios
+Krinidis and Dimitrios Tzovaras
+
+[2] Performance Evaluation of Classifiers on WISDM
+Datasetfor Human Activity Recognition , K.H. Walse , R.V.
+Dharaskar , V.M. Thakare
+
+[3] Smart Phone Based Data Mining For Human Activity
+Recognition,Girija Chettya, Matthew Whiteb, Farnaz
+Akthera
+
+[4] Human Activity Recognition Using Smartphones ,
+Erhan BULBUL , Aydın CETIN , ˙Ibrahim Alper DOGRU
+
+[5] Human Activity Recognition (HAR) with Keras and
+Core ML , Nils
