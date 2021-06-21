@@ -48,7 +48,7 @@ activities. The precision value obtained for ’downstairs’ is
 
 References
 
-[1] Real-Time Physical Activity Recognition on SmartMobile Devices Using Convolutional Neural Networks,Konstantinos Peppas , Apostolos C. Tsolakis , Stelios
+[1] Real-Time Physical Activity Recognition on Smart Mobile Devices Using Convolutional Neural Networks,Konstantinos Peppas , Apostolos C. Tsolakis , Stelios
 Krinidis and Dimitrios Tzovaras
 
 [2] Performance Evaluation of Classifiers on WISDM
