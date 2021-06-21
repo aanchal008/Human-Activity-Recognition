@@ -72,3 +72,7 @@ Contribution
 Aanchal Satpuri
 
 Azal Fatima
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Some of the code help has been taken from the following link: https://towardsdatascience.com/human-activity-recognition-har-tutorial-with-keras-and-core-ml-part-1-8c05e365dfa0
