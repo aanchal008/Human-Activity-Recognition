@@ -37,7 +37,7 @@ We got an accuracy of
 76.85% on test data. Therefore, we can conclude that our
 model performs well on unseen data.
 
-The confusion matrix shows how many samples are correctly classified. Our model performs pretty well for ’jogging’, ’sitting’, ’standing’ and ’walking’ with the precision values equal to 0.78, 0.84, 0.95, and 0.82 respectively.
+The confusion matrix shows how many samples are correctly classified. Our model performs pretty well for ’jogging’, ’sitting’, ’standing’ and ’walking’ with the precision values equal to 0.78, 0.84, 0.95, and 0.82 respectively.
 Whereas, when it comes to the precision of classification for
 ’downstairs’ and ’upstairs’, the model gets confused, and as
 a result, the predicted labels are misclassified for these two
